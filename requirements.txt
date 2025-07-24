@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+scikit-learn
+pdfminer.six
+sentence-transformers
+pandas
+altair
+spacy==3.7.2
+spacy-transformers==1.2.0
+
+# Install model using SpaCy after deployment
+# Don't include model URL directly
